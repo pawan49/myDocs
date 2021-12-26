@@ -1,5 +1,6 @@
 This is secret file don't touch it!
 
+********************************************************
 <?php
 
 namespace App\Models;
@@ -19,3 +20,4 @@ class User extends Model
         return ucfirst($value);
     }
 }
+**********************************************************
